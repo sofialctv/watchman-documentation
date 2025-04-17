@@ -1,10 +1,7 @@
 ---
 sidebar_position: 1
+title: Introdução
 ---
-# Project Model Canvas (PMC)
-
-## Introdução
-
 O Project Model Canvas é uma ferramenta estratégica de gestão de projetos que proporciona uma visão consolidada e simplificada de todos os elementos essenciais de um projeto em um único quadro visual. Derivado do conceito do Business Model Canvas, o PMC foi adaptado para atender especificamente às necessidades de planejamento e execução de projetos.
 
 ## Objetivos do PMC
