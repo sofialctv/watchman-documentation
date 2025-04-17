@@ -5,9 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Watchman',
+  favicon: 'img/icon96.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -37,10 +36,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -48,11 +43,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -65,73 +55,75 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Watchman',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/icon96.png',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'backlog',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Backlog',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          type: 'docSidebar',
+          sidebarId: 'comunicacao',
+          position: 'left',
+          label: 'Comunicação',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'disc',
+          position: 'left',
+          label: 'DISC',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'feedback',
+          position: 'left',
+          label: 'Feedback',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'metricas',
+          position: 'left',
+          label: 'Métricas',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'pmc',
+          position: 'left',
+          label: 'PMC',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'team_topology',
+          position: 'left',
+          label: 'Team Topology',
+        },
+        {
+          type: 'dropdown',
+          label: 'Links',
           position: 'right',
-        },
-      ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'GitHub Projects',
+              href: 'https://github.com/users/joaomrpimentel/projects/1',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Código Fonte',
+              href: 'https://github.com/joaomrpimentel/watchman',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Código Fonte - Documentação',
+              href: 'https://github.com/sofialctv/watchman-documentation',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
