@@ -2,72 +2,78 @@
 sidebar_position: 1
 title: Modelo de Feedback
 ---
-# Processo de Feedback - Método GROW
+# Template de Formulário de Feedback - Método GROW
 
-## Introdução
+**Data:** [DD/MM/AAAA]  
+**Nome do Colaborador:** [Nome completo]  
+**Função/Time:** [Cargo/Área]  
+**Feedback dado por:** [Seu nome]  
+**Relação com o colaborador:** [Colega/Gestor/Outro]  
 
-Este documento estabelece nosso processo estruturado de feedback baseado no método **GROW** (Goal, Reality, Options, Will) e nos princípios do livro *Obrigado pelo Feedback* de Douglas Stone e Sheila Heen. O objetivo é criar uma cultura de feedback contínuo que promova desenvolvimento individual e melhoria coletiva.
+---
 
-## Princípios Fundamentais
+## 1. Objetivo (Goal)
+**Qual o propósito deste feedback?**  
+[Descreva em 1-2 frases o foco principal deste feedback]  
+*Exemplo: "Ajudar a melhorar a comunicação de atualizações de projeto com a equipe"*
 
-1. **Feedback é presente**: Encaramos o feedback como oportunidade de crescimento
-2. **Bidirecionalidade**: Todos podem dar e receber feedback, independente de hierarquia
-3. **Específico e acionável**: Focado em comportamentos observáveis e modificáveis
-4. **Regularidade**: Prática contínua, não apenas em avaliações formais
+---
 
-## Método GROW para Feedback Eficaz
+## 2. Situação Atual (Reality)
+**Comportamentos/Situações Observadas:**  
+- [Fato 1 com data/exemplo concreto]  
+- [Fato 2 com contexto específico]  
 
-### 1. **G (Goal) - Objetivo**
-- Definir claramente o propósito do feedback
-- Exemplo: "Meu objetivo com este feedback é ajudar a melhorar nossa colaboração nas reuniões"
+**Impacto Percebido:**  
+[Como esses comportamentos impactam o trabalho individual, da equipe ou resultados]  
+*Exemplo: "Quando os relatórios chegam incompletos (3 ocorrências em junho), a equipe perde 2 horas readaptando o planejamento"*
 
-### 2. **R (Reality) - Realidade**
-- Descrever a situação atual com fatos observáveis
-- Incluir impacto percebido
-- Exemplo: "Nas últimas 3 reuniões, notei que você chegou 15 minutos atrasado, o que fez precisarmos repetir discussões"
+---
 
-### 3. **O (Options) - Opções**
-- Explorar conjuntamente alternativas de melhoria
-- Incentivar a autoreflexão
-- Exemplo: "Quais estratégias poderíamos testar para garantir pontualidade?"
+## 3. Pontos Positivos (Strengths)
+**O que está funcionando bem:**  
+- [Força 1 com exemplo]  
+- [Força 2 com evidência]  
+*Exemplo: "Sua capacidade de resolver problemas técnicos complexos (como demonstrado no caso X em 15/05) é excepcional"*
 
-### 4. **W (Will) - Vontade**
-- Definir compromissos concretos
-- Estabelecer plano de ação e acompanhamento
-- Exemplo: "Você se compromete a testar o alarme 30 minutos antes na próxima semana? Podemos revisar na sexta."
+---
 
-## Processo de Feedback na Equipe
+## 4. Áreas de Desenvolvimento (Options)
+**Oportunidades de melhoria identificadas:**  
+1. [Área 1] - Sugestões:  
+   - [Opção A]  
+   - [Opção B]  
 
-### Feedback Rotineiro (Informal)
-- **Frequência**: Imediato após observações relevantes
-- **Duração**: 5-10 minutos
-- **Formato**: Conversa rápida usando estrutura GROW
+2. [Área 2] - Sugestões:  
+   - [Opção A]  
+   - [Opção B]  
 
-### Feedback Estruturado (Formal)
-- **Frequência**: Mensal para cada membro
-- **Duração**: 30-45 minutos
-- **Preparação**: 
-  - Coletar exemplos concretos
-  - Preparar pontos positivos e de melhoria
-- **Documentação**: Registrar insights e acordos
+---
 
-## Recebendo Feedback Efetivamente
+## 5. Plano de Ação (Will)
+**Compromissos Acordados:**  
+| Ação | Prazo | Indicador de Sucesso |
+|------|-------|----------------------|
+| [Ação concreta] | [Data] | [Como será medido] |
+| Ex: Enviar rascunho do relatório para revisão às quintas | Toda sexta até 30/08 | 100% dos relatórios pré-revisados em 4 semanas |
 
-1. **Ouvir ativamente**: Concentre-se em entender, não em responder
-2. **Separar o "eu" do feedback**: Não levar como crítica pessoal
-3. **Clarificar**: Peça exemplos se algo não estiver claro
-4. **Agradecer**: Reconheça o esforço de quem está dando o feedback
-5. **Refletir**: Reserve tempo para processar antes de reagir
+---
 
-## Ferramentas de Apoio
+## 6. Acompanhamento
+**Próxima revisão:** [Data]  
+**Forma de acompanhamento:** [Reunião semanal/Email mensal/etc.]  
 
-1. **Formulário de Feedback**: Template padronizado disponível no [link]
-2. **Diário de Feedback**: Espaço para registrar observações ao longo do tempo
-3. **Sessões de Prática**: Workshops bimestrais para exercitar a cultura de feedback
+**Observações do Colaborador:**  
+[Espaço para o receptor do feedback registrar suas percepções]  
 
-## Próximos Passos
+**Assinaturas:**  
+___________________________  
+(Quem dá o feedback)  
 
-1. Todos os membros completam treinamento inicial sobre o método
-2. Estabelecer parceiros de feedback entre a equipe
-3. Agendar primeira rodada formal de feedbacks
-4. Revisar e ajustar processo após 3 meses de implementação
+___________________________  
+(Quem recebe o feedback)  
+
+---
+
+### Versão Digital Disponível em: [Link para Formulário Online]  
+*Documento atualizado em: DD/MM/AAAA*  
