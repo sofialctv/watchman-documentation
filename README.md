@@ -3,6 +3,6 @@
 
 
 ### Links
-- Para acessar nossa documentação dinâmica, visite 
+- Para acessar nossa **documentação dinâmica**, visite https://sofialctv.github.io/watchman-documentation/
 - Para visualizar o **código fonte** acesse o repositório [watchman](https://github.com/joaomrpimentel/watchman). 
 - Para visualizar o **GitHub Projects** com a gestão de tarefas, clique [aqui](https://github.com/users/joaomrpimentel/projects/1).
