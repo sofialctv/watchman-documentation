@@ -1,0 +1,20 @@
+image: node:latest
+
+cache:
+  paths:
+    - node_modules/
+    - public/
+    - .cache/
+
+pages:
+  stage: deploy
+  script:
+    - yarn install
+    - yarn build:gitlab
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+
+    
