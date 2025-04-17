@@ -10,6 +10,7 @@ const config: Config = {
   baseUrl: '/watchman-documentation/',
 
   projectName: 'watchman-documentation', // Usually your repo name.
+  deploymentBranch:"main",
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
