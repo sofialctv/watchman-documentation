@@ -37,5 +37,3 @@ A aplicação do Project Model Canvas oferece diversas vantagens:
 - Facilidade de atualização e adaptação às mudanças
 - Visualização imediata das inter-relações entre componentes
 - Ferramenta eficaz para pitchs e apresentações iniciais
-
-Esta documentação detalha cada aspecto do Project Model Canvas aplicado ao nosso projeto, servindo como referência para todo o ciclo de vida da iniciativa.

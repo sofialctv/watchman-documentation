@@ -1,7 +1,11 @@
 ---
 sidebar_position: 1
-title: Introdução
+title: Modelo de Feedback
 ---
+# Processo de Feedback - Método GROW
+
+## Introdução
+
 Este documento estabelece nosso processo estruturado de feedback baseado no método **GROW** (Goal, Reality, Options, Will) e nos princípios do livro *Obrigado pelo Feedback* de Douglas Stone e Sheila Heen. O objetivo é criar uma cultura de feedback contínuo que promova desenvolvimento individual e melhoria coletiva.
 
 ## Princípios Fundamentais
