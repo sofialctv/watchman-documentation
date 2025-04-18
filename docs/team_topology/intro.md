@@ -18,19 +18,20 @@ Também é responsabilidade do time a comunicação com stakeholders para identi
 
 ## Integrantes
 
-- [João Marcos](https://github.com/joaomrpimentel)  
-- [Lara Aguilar](https://github.com/laraguilar)  
-- [Manoel Rodrigues](https://github.com/ManoelRL)  
-- [Kleber](https://github.com/KleberALP)  
-- [Beatriz Mariano](https://github.com/auerbeatriz)  
+- Beatriz Auer - [@auerbeatriz](https://github.com/auerbeatriz)
+- João Marcos Pimentel - [@joaomrpimentel](https://github.com/joaomrpimentel)
+- Kleber André Lirio - [@KleberALP](https://github.com/KleberALP)
+- Lara Aguilar - [@laraguilar](https://github.com/laraguilar)  
+- Manoel Rodrigues - [@ManoelRL](https://github.com/ManoelRL)  
 
 ## Tecnologias
 
-- .NET  
-- Vue.js  
+- DevLake (a definir)  
 - Docker  
-- DevLake  
-- Drone / SonarQube (em definição)  
+- Drone (a definir)  
+- .NET  
+- SonarQube (a definir)  
+- Vue.js  
 
 ## Objetivo
 

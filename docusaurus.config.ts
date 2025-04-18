@@ -80,6 +80,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'gestao',
+          position: 'left',
+          label: 'Gestão',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'metricas',
           position: 'left',
           label: 'Métricas',
