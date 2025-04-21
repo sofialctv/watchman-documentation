@@ -20,15 +20,15 @@ title: Perfis do Time
 - Conformidade (C): [45]%
 
 ### João Marcos Pimentel
-**Perfil DISC predominante:** [D/I/S/C]  
+**Perfil DISC predominante:** [D]  
 **Pontuações:**
-- Dominância (D): [X]%
-- Influência (I): [X]%
-- Estabilidade (S): [X]%
-- Conformidade (C): [X]%
+- Dominância (D): [43,90]%
+- Influência (I): [43,90]%
+- Estabilidade (S): [4,88]%
+- Conformidade (C): [7,32]%
 
 ### Kleber André Lirio
-**Perfil DISC predominante:** [D/I/S/C]  
+**Perfil DISC predominante:** [D]  
 **Pontuações:**
 - Dominância (D): [X]%
 - Influência (I): [X]%
@@ -36,12 +36,12 @@ title: Perfis do Time
 - Conformidade (C): [X]%
   
 ### Lara Aguilar
-**Perfil DISC predominante:** [D/I/S/C]  
+**Perfil DISC predominante:** [C]  
 **Pontuações:**
-- Dominância (D): [X]%
-- Influência (I): [X]%
-- Estabilidade (S): [X]%
-- Conformidade (C): [X]%
+- Dominância (D): [0]%
+- Influência (I): [12,50]%
+- Estabilidade (S): [42,50]%
+- Conformidade (C): [45]%
   
 ### Manoel Rodrigues
 **Perfil DISC predominante:** [D/I/S/C]  
