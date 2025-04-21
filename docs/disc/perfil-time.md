@@ -12,12 +12,12 @@ title: Perfis do Time
 ## Membros da Equipe e Seus Perfis
 
 ### Beatriz Auer 
-**Perfil DISC predominante:** [D/I/S/C]  
+**Perfil DISC predominante:** [C]  
 **Pontuações:**
-- Dominância (D): [X]%
-- Influência (I): [X]%
-- Estabilidade (S): [X]%
-- Conformidade (C): [X]%
+- Dominância (D): [25]%
+- Influência (I): [12,50]%
+- Estabilidade (S): [17,50]%
+- Conformidade (C): [45]%
 
 ### João Marcos Pimentel
 **Perfil DISC predominante:** [D/I/S/C]  
