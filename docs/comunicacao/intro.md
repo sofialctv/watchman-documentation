@@ -46,5 +46,5 @@ Este plano estabelece as diretrizes para garantir uma comunicação clara, ágil
 
 ## Responsáveis pela Comunicação
 
-- **Time de Desenvolvimento**: João Marcos ([GitHub](https://github.com/joaomrpimentel))  
-- **Time de Gestão**: Sofia ([GitHub](https://github.com/sofialctv))  
+- **Time de Desenvolvimento**: João Marcos 
+- **Time de Gestão**: Sofia

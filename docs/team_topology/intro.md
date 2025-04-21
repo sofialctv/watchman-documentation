@@ -26,12 +26,15 @@ Também é responsabilidade do time a comunicação com stakeholders para identi
 
 ## Tecnologias
 
+- AirFlow
 - DevLake (a definir)  
-- Docker  
 - Drone (a definir)  
-- .NET  
+- Kubernetes  
+- MiniO
+- Python
 - SonarQube (a definir)  
-- Vue.js  
+- SQLServer
+- Vue.js + Tailwind 
 
 ## Objetivo
 
