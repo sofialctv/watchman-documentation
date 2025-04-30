@@ -16,6 +16,12 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  markdown: {
+    mermaid: true,
+  
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -41,6 +47,7 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+
         },
       } satisfies Preset.Options,
     ],
