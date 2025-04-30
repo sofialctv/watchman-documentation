@@ -2,6 +2,9 @@
 sidebar_position: 1
 title: Introdução
 ---
+
+![alt text](img/image.png)
+
 O DISC é um modelo de avaliação comportamental que classifica os padrões de comportamento em quatro dimensões principais: Dominância (D), Influência (I), Estabilidade (S) e Conformidade (C). Esta ferramenta é amplamente utilizada para compreender estilos de comunicação, preferências de trabalho e dinâmicas interpessoais em ambientes profissionais.
 
 ## Objetivos da Análise DISC

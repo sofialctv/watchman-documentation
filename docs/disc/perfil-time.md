@@ -11,80 +11,46 @@ title: Perfis do Time
 
 ## Membros da Equipe e Seus Perfis
 
-### Beatriz Auer 
-**Perfil DISC predominante:** [C]  
-**Pontuações:**
-- Dominância (D): [25]%
-- Influência (I): [12,50]%
-- Estabilidade (S): [17,50]%
-- Conformidade (C): [45]%
-
-### João Marcos Pimentel
-**Perfil DISC predominante:** [D]  
-**Pontuações:**
-- Dominância (D): [43,90]%
-- Influência (I): [43,90]%
-- Estabilidade (S): [4,88]%
-- Conformidade (C): [7,32]%
-
-### Kleber André Lirio
-**Perfil DISC predominante:** [D]  
-**Pontuações:**
-- Dominância (D): [X]%
-- Influência (I): [X]%
-- Estabilidade (S): [X]%
-- Conformidade (C): [X]%
-  
-### Lara Aguilar
-**Perfil DISC predominante:** [C]  
-**Pontuações:**
-- Dominância (D): [0]%
-- Influência (I): [12,50]%
-- Estabilidade (S): [42,50]%
-- Conformidade (C): [45]%
-  
-### Manoel Rodrigues
-**Perfil DISC predominante:** [I]  
-**Pontuações:**
-- Dominância (D): [22,50]%
-- Influência (I): [42,50]%
-- Estabilidade (S): [20]%
-- Conformidade (C): [15]%
-
-### Marcos Vinícius Santos
-**Perfil DISC predominante:** [S]  
-**Pontuações:**
-- Dominância (D): [25]%
-- Influência (I): [15]%
-- Estabilidade (S): [47,50]%
-- Conformidade (C): [12,50]%
-
-### Matheus Caldas
-**Perfil DISC predominante:** [S]  
-**Pontuações:**
-- Dominância (D): [10]%
-- Influência (I): [30]%
-- Estabilidade (S): [40]%
-- Conformidade (C): [20]%
-
-### Sofia de Alcantara
-**Perfil DISC predominante:** [D]  
-**Pontuações:**
-- Dominância (D): [55]%
-- Influência (I): [25]%
-- Estabilidade (S): [2,50]%
-- Conformidade (C): [17,50]%
+| Nome                 | Perfil Predominante | Dominância (D) | Influência (I) | Estabilidade (S) | Conformidade (C) |
+|:--------------------|:-------------------:|:--------------:|:--------------:|:----------------:|:----------------:|
+| Beatriz Auer         | C                   | 25%            | 12,50%         | 17,50%           | 45%              |
+| João Marcos Pimentel | D                   | 43,90%         | **43,90%**     | 4,88%            | 7,32%            |
+| Kleber André Lirio   | D                   | 35%            | 22,50%         | 17,50%           | 25%              |
+| Lara Aguilar         | C                   | 0%             | 12,50%         | 42,50%           | **45%**          |
+| Manoel Rodrigues     | I                   | 22,50%         | 42,50%         | 20%              | 15%              |
+| Marcos Vinícius Santos | S                 | 25%            | 15%            | **47,50%**       | 12,50%           |
+| Matheus Caldas       | S                   | 10%            | 30%            | 40%              | 20%              |
+| Sofia de Alcantara   | D                   | **55%**        | 25%            | 2,50%            | 17,50%           |
 
 ## Análise Coletiva
 ```mermaid
 pie title Distribuição de perfis na equipe
-         "Dominância (D) ~31,13%" : 31
-         "Influência (I) ~18,34%" : 18
-         "Estabilidade (S) ~24,05%" : 24
-         "Conformidade (C) ~26,48%" : 26
+         "Dominância (D) ~34,1%" : 34
+         "Influência (I) ~19,7%" : 19
+         "Estabilidade (S) ~22,09%" : 22
+         "Conformidade (C) ~23,30%" : 23
 ```
 
-**Observações sobre a dinâmica da equipe:**
-1. [Primeira observação sobre como os perfis se complementam]
-2. [Segunda observação sobre potenciais pontos de atenção]
-3. [Sugestão para melhor aproveitamento das diversidades comportamentais]
+### **Observações Atualizadas sobre a Dinâmica da Equipe**  
+
+1. **Equilíbrio entre Ação e Análise, mas com Dominância (D) Mais Forte:**  
+   - **João Marcos (D/I)** e **Sofia (D)** amplificam essa característica, criando um ambiente dinâmico, mas com risco de impaciência em processos mais lentos. 
+   - **Kleber (D com traços de I e C)** pode ser um "mediador" natural entre os perfis mais extremos (ex.: entre Sofia [D puro] e Lara [C]).  
+
+2. **Influência (I) Ainda Limitada:**  
+   - **Manoel (I)** continua sendo o principal perfil de comunicação e persuasão, mas **Kleber (22,5% I)** e **João Marcos (43,9% I)** ajudam a compensar.  
+   - Se a equipe precisar de mais engajamento externo ou brainstorming criativo, pode ser necessário estimular mais participação desses membros.  
+
+3. **Conformidade (C) e Estabilidade (S) em Menor Peso, mas Críticos:**  
+   - **Beatriz e Lara (C)** garantem precisão e atenção a detalhes, enquanto **Marcos Vinícius e Matheus (S)** trazem consistência.  
+   - Como **D** é predominante, há risco de subvalorizar processos meticulosos. Uma sugestão é **designar momentos específicos para análise e demais eventos mais metódicos**.  
+
+4. **Sugestões para Melhorar a Sinergia:**  
+   - **Evitar conflitos entre D e C:** Criar um fluxo onde **D** propõe soluções rápidas e **C** as refine, em vez de debates abertos (que podem gerar atritos).   
+   - **Balancear tomadas de decisão:** Incluir **S** e **C** em fases de planejamento, enquanto **D** e **I** atuam mais na execução.  
+
+### **Conclusão**  
+A equipe tem **alta capacidade executiva (D)** e **boa análise crítica (C)**, mas precisa de:  
+- **Mais estímulo à comunicação (I)** para evitar viés "só ação".  
+- **Processos claros** para harmonizar perfis opostos (ex.: **D** vs. **C**).  
+- **Uso estratégico de perfis híbridos** (Kleber, João Marcos) como ponte entre extremos.  
