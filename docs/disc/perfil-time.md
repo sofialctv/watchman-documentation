@@ -44,12 +44,12 @@ title: Perfis do Time
 - Conformidade (C): [45]%
   
 ### Manoel Rodrigues
-**Perfil DISC predominante:** [D/I/S/C]  
+**Perfil DISC predominante:** [I]  
 **Pontuações:**
-- Dominância (D): [X]%
-- Influência (I): [X]%
-- Estabilidade (S): [X]%
-- Conformidade (C): [X]%
+- Dominância (D): [22,50]%
+- Influência (I): [42,50]%
+- Estabilidade (S): [20]%
+- Conformidade (C): [15]%
 
 ### Marcos Vinícius Santos
 **Perfil DISC predominante:** [S]  
