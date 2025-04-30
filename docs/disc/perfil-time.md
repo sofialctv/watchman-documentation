@@ -76,12 +76,13 @@ title: Perfis do Time
 - Conformidade (C): [17,50]%
 
 ## Análise Coletiva
-
-**Distribuição de perfis na equipe:**
-- [X]% Dominância (D)
-- [X]% Influência (I)
-- [X]% Estabilidade (S)
-- [X]% Conformidade (C)
+```mermaid
+pie title Distribuição de perfis na equipe
+         "Dominância (D) ~31,13%" : 31
+         "Influência (I) ~18,34%" : 18
+         "Estabilidade (S) ~24,05%" : 24
+         "Conformidade (C) ~26,48%" : 26
+```
 
 **Observações sobre a dinâmica da equipe:**
 1. [Primeira observação sobre como os perfis se complementam]
