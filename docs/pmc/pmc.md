@@ -3,4 +3,4 @@ sidebar_position: 1
 title: PMC Watchman
 ---
 
-![alt text](<img/PMC - Notas Fiscais.png>)
+![alt text](<img/pmc-v2.png>)
