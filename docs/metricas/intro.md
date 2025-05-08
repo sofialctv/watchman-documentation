@@ -24,7 +24,6 @@ A adoção de métricas ágeis neste projeto visa:
 | **Lead Time**          | Tempo entre a criação e entrega de uma demanda | GitHub Projects, Jira, Azure DevOps | Por sprint |
 | **Cycle Time**         | Tempo entre o início e a finalização da execução | GitHub Projects, Jira, Trello | Por sprint |
 | **Throughput**         | Quantidade de entregas finalizadas em um período | GitHub Projects, DevLake | Por sprint |
-| **Velocidade (Velocity)** | Total de pontos de estória concluídos | Jira, Azure DevOps, planilhas de poker | Ao fim da sprint |
 
 ### 🧪 Métricas de Qualidade
 
