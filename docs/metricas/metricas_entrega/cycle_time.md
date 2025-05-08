@@ -17,11 +17,9 @@ Diferente do **Lead Time**, que abrange todo o ciclo de vida da demanda (inclusi
 
 A medição do Cycle Time varia conforme o fluxo de trabalho e a ferramenta adotada, mas geralmente envolve a análise das transições de status da tarefa ao longo do seu ciclo.
 
-### Ferramentas recomendadas:
+### Ferramenta:
 
 - **GitHub Projects**: rastreio de eventos como mudança para “In Progress” e encerramento de PR.
-- **Jira**: uso de relatórios como *Control Chart* e configurações de status personalizados.
-- **Trello**: colunas do tipo “Doing” → “Done”, com auxílio de automações como o Butler.
 
 ### Procedimento:
 

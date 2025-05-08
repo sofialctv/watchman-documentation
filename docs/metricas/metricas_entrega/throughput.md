@@ -15,12 +15,9 @@ Ela mede a **cadência de entrega do time**, sendo crucial para entender a capac
 
 ## Como medir?
 
-### Ferramentas recomendadas:
+### Ferramenta:
 
 - **GitHub Projects**: via filtros e exports por *labels* e *milestones*.
-- **DevLake**: plataforma analítica open-source com dashboards prontos para métricas de fluxo.
-- **Jira**: gráficos nativos como *Cumulative Flow Diagram* ou relatórios de sprints.
-- **Azure DevOps, Trello, Linear**: através de tags e colunas com status "Done".
 
 ### Procedimento:
 

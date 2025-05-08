@@ -24,12 +24,9 @@ Diferentemente do *Cycle Time*, que mede apenas o tempo de trabalho ativo, o **L
 
 ## Como medir?
 
-### Ferramentas recomendadas:
+### Ferramenta:
 
 - **GitHub Projects**: utilizar a data de criação e a data de fechamento da *issue* ou *pull request*.
-- **Jira**: configurar o fluxo de trabalho para registrar transições de status; extrair relatórios como *Control Chart*.
-- **Azure DevOps**: usar o *Work Item Analytics* ou dashboards personalizados para capturar o tempo entre "Criado" e "Concluído".
-- **Linear, Trello, YouTrack, DevLake**: também oferecem integrações e relatórios que extraem essas informações.
 
 ### Procedimento:
 
