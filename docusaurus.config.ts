@@ -110,6 +110,12 @@ const config: Config = {
           label: 'Team Topology',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'dsm',
+          position: 'left',
+          label: 'DSM',
+        },
+        {
           type: 'dropdown',
           label: 'Links',
           position: 'right',
