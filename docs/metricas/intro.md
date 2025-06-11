@@ -17,7 +17,7 @@ A adoção de métricas ágeis neste projeto visa:
 
 ## Categorias e Principais Métricas
 
-### 📦 Métricas de Entrega
+### 📦   Métricas de Entrega
 
 | Métrica                 | Definição | Coleta | Frequência |
 |------------------------|-----------|--------|------------|
