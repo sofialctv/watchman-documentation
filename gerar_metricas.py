@@ -56,6 +56,8 @@ issues = get_issues(owner, repo)
 lead_times = defaultdict(list)
 cycle_times = defaultdict(list)
 throughput = defaultdict(lambda: defaultdict(int))  # user -> {YYYY-MM: count}
+bugs_reported = defaultdict(int)
+bugs_lead_time = defaultdict(list)
 
 for issue in issues:
     if "pull_request" in issue:
@@ -70,6 +72,15 @@ for issue in issues:
     if not closed_at:
         # Métricas só pra issues fechadas
         continue
+
+    labels= [label["name"].lower() for label in issue.get("labels", [])]
+    is_bug = "bug" in labels
+
+    if is_bug:
+        for user in assignees:
+            bugs_reported[user] += 1
+            if lead_time_days is not None:
+                bugs_lead_time[user].append(lead_time_days)
 
     timeline = get_issue_timeline(owner, repo, issue_number)
 
@@ -143,6 +154,10 @@ with open(filename, "w", encoding="utf-8") as f:
         f.write(f"  - Lead Time médio (dias): {avg_lead:.2f}\n")
         f.write(f"  - Cycle Time médio (dias): {avg_cycle:.2f}\n")
         f.write(f"  - Throughput por mês:\n")
+        f.write(f"  - Bugs reportados: {bugs_reported[user]}\n")
+        if user in bugs_lead_time:
+            avg_bug_lead = sum(bugs_lead_time[user]) / len(bugs_lead_time[user]) if bugs_lead_time[user] else 0
+            f.write(f"  - Lead Time médio para bugs: {avg_bug_lead:.2f}\n")
         for ym, count in sorted(throughput[user].items()):
             f.write(f"    {ym}: {count}\n")
         f.write("\n")
