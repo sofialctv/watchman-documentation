@@ -13,7 +13,8 @@ title: Resultados Finais
 - Combinamos que o grupo de DOO ficaria responsável por atualizar o status das tarefas.
 
 # SonarQube
-Tentativa de estrutruar o Sonar foi falha.
+Implementamos o SonarQube para analisar o código do repositório, que executa uma varredura arquivo por arquivo em busca de falhas de segurança e <i>code smells</i>.
+
 ![alt text](./img/sonar.png)
 
 # Métricas 
@@ -107,5 +108,8 @@ Tentativa de estrutruar o Sonar foi falha.
 
 # Participação por Commits
 
-## Repositório `watchman` - Contributors (All time period)
+## Repositório `watchman` - Contributors 
 ![alt text](img/image.png)
+
+## Repositório `watchman-front` - Contributors 
+![alt text](img/image-front.png)
