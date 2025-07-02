@@ -1,0 +1,84 @@
+Métricas por usuário (assigned):
+
+Usuário: joaomrpimentel
+  - Lead Time médio (dias): 14.44
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 1
+  - Issues Fechadas: 9
+  - Lead Time médio para bugs: 0.00
+  - Throughput por mês:
+    2025-04: 1
+    2025-05: 1
+    2025-06: 7
+
+Usuário: KleberALP
+  - Lead Time médio (dias): 32.33
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 3
+  - Throughput por mês:
+    2025-04: 1
+    2025-06: 2
+
+Usuário: auerbeatriz
+  - Lead Time médio (dias): 24.25
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 4
+  - Throughput por mês:
+    2025-04: 1
+    2025-05: 1
+    2025-06: 2
+
+Usuário: laraguilar
+  - Lead Time médio (dias): 36.25
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 4
+  - Throughput por mês:
+    2025-04: 1
+    2025-06: 3
+
+Usuário: ManoelRL
+  - Lead Time médio (dias): 32.33
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 3
+  - Throughput por mês:
+    2025-04: 1
+    2025-06: 2
+
+Usuário: OficialMark
+  - Lead Time médio (dias): 12.71
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 7
+  - Throughput por mês:
+    2025-04: 5
+    2025-05: 2
+
+Usuário: mathcaldas
+  - Lead Time médio (dias): 12.71
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 7
+  - Throughput por mês:
+    2025-04: 5
+    2025-05: 2
+
+Usuário: sofialctv
+  - Lead Time médio (dias): 12.67
+  - Cycle Time médio (dias): 0.00
+  - Bugs reportados: 0
+  - Issues Fechadas: 6
+  - Throughput por mês:
+    2025-04: 5
+    2025-05: 1
+
+Issues Criadas por Autor:
+
+  - auerbeatriz: 4
+  - joaomrpimentel: 5
+  - laraguilar: 1
+  - sofialctv: 26
+
