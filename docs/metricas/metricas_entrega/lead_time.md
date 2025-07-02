@@ -16,7 +16,7 @@ Essa métrica abrange **todo o ciclo de vida da demanda**, incluindo:
 - testes de homologação,
 - e etapas de aprovação.
 
-> 📌 O Lead Time responde à pergunta: **“Quanto tempo levamos, do pedido até a entrega?”**
+> O Lead Time responde à pergunta: **“Quanto tempo levamos, do pedido até a entrega?”**
 
 Diferentemente do *Cycle Time*, que mede apenas o tempo de trabalho ativo, o **Lead Time** oferece uma visão mais completa da jornada de entrega de valor ao cliente ou usuário final.
 
@@ -35,7 +35,7 @@ Diferentemente do *Cycle Time*, que mede apenas o tempo de trabalho ativo, o **L
 3. **Calcule a diferença entre os dois pontos**.
 4. **Automatize o processo** sempre que possível com queries, plugins ou dashboards conectados a ferramentas como Power BI, Grafana ou DevLake.
 
-> 🔍 É recomendável manter uma definição consistente sobre o que significa “entrega” para o time — produção, homologação, aceite, etc.
+> É recomendável manter uma definição consistente sobre o que significa “entrega” para o time — produção, homologação, aceite, etc.
 
 ---
 
@@ -63,9 +63,7 @@ O acompanhamento do Lead Time oferece uma série de benefícios estratégicos e 
 
 ## Boas práticas
 
-- ✅ Use **amostras suficientes** para evitar conclusões com base em poucos dados.
-- ✅ **Padronize a definição de “pronto”** para que a métrica seja comparável entre projetos ou sprints.
-- ✅ Combine com outras métricas como *Cycle Time*, *WIP* e *Throughput* para uma visão sistêmica.
-- ✅ **Evite comparações isoladas entre equipes** — o Lead Time deve ser usado principalmente para medir evolução dentro de um mesmo contexto.
-
----
+- Use **amostras suficientes** para evitar conclusões com base em poucos dados.
+- **Padronize a definição de “pronto”** para que a métrica seja comparável entre projetos ou sprints.
+- Combine com outras métricas como *Cycle Time*, *WIP* e *Throughput* para uma visão sistêmica.
+- **Evite comparações isoladas entre equipes** — o Lead Time deve ser usado principalmente para medir evolução dentro de um mesmo contexto.

@@ -9,7 +9,7 @@ O **Cycle Time** é uma métrica fundamental para análise de produtividade em e
 
 Diferente do **Lead Time**, que abrange todo o ciclo de vida da demanda (inclusive o tempo em que a tarefa está aguardando priorização ou revisão), o **Cycle Time** foca exclusivamente no período **produtivo**, isto é, o tempo em que a equipe esteve ativamente trabalhando naquela entrega.
 
-> 📌 É uma métrica centrada na execução e, por isso, ajuda a entender a performance real do time de desenvolvimento.
+> É uma métrica centrada na execução e, por isso, ajuda a entender a performance real do time de desenvolvimento.
 
 ---
 
@@ -34,7 +34,7 @@ A medição do Cycle Time varia conforme o fluxo de trabalho e a ferramenta adot
 
 A forma mais comum de visualização do Cycle Time é por meio de **gráficos de barras** (para comparar tarefas individuais), **histogramas** (para ver distribuição de tempos) ou **boxplots** (para entender a dispersão e outliers).
 
-> 🔍 Uma análise estatística do Cycle Time permite encontrar **mediana**, **desvios padrões**, e tarefas fora da curva — pontos críticos para melhoria contínua.
+> Uma análise estatística do Cycle Time permite encontrar **mediana**, **desvios padrões**, e tarefas fora da curva — pontos críticos para melhoria contínua.
 
 ---
 
@@ -50,9 +50,7 @@ A forma mais comum de visualização do Cycle Time é por meio de **gráficos de
 
 ## Boas práticas
 
-- ✅ Defina claramente os status do fluxo (“To Do”, “In Progress”, “Code Review”, “Done”) e mantenha consistência.
-- ✅ Automatize a coleta de timestamps sempre que possível.
-- ✅ Combine o Cycle Time com outras métricas, como **Throughput**, **Work In Progress (WIP)** e **Lead Time**, para análises mais robustas.
-- ✅ Revise frequentemente tarefas com Cycle Time anormalmente alto em retrospectivas.
-
----
+- Defina claramente os status do fluxo (“To Do”, “In Progress”, “Code Review”, “Done”) e mantenha consistência.
+- Automatize a coleta de timestamps sempre que possível.
+- Combine o Cycle Time com outras métricas, como **Throughput**, **Work In Progress (WIP)** e **Lead Time**, para análises mais robustas.
+- Revise frequentemente tarefas com Cycle Time anormalmente alto em retrospectivas.

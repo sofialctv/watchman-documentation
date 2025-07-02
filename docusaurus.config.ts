@@ -63,12 +63,6 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'backlog',
-          position: 'left',
-          label: 'Backlog',
-        },
-        {
-          type: 'docSidebar',
           sidebarId: 'comunicacao',
           position: 'left',
           label: 'Comunicação',
@@ -78,6 +72,12 @@ const config: Config = {
           sidebarId: 'disc',
           position: 'left',
           label: 'DISC',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'dsm',
+          position: 'left',
+          label: 'DSM',
         },
         {
           type: 'docSidebar',
@@ -111,9 +111,9 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'dsm',
+          sidebarId: 'resultados',
           position: 'left',
-          label: 'DSM',
+          label: 'Resultados Finais',
         },
         {
           type: 'dropdown',

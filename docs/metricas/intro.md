@@ -17,7 +17,7 @@ A adoção de métricas ágeis neste projeto visa:
 
 ## Categorias e Principais Métricas
 
-### 📦   Métricas de Entrega
+### Métricas de Entrega
 
 | Métrica                 | Definição | Coleta | Frequência |
 |------------------------|-----------|--------|------------|
@@ -25,7 +25,7 @@ A adoção de métricas ágeis neste projeto visa:
 | **Cycle Time**         | Tempo entre o início e a finalização da execução | GitHub Projects, Jira, Trello | Por sprint |
 | **Throughput**         | Quantidade de entregas finalizadas em um período | GitHub Projects, DevLake | Por sprint |
 
-### 🧪 Métricas de Qualidade
+### Métricas de Qualidade
 
 | Métrica                 | Definição | Coleta | Frequência |
 |------------------------|-----------|--------|------------|
@@ -33,7 +33,7 @@ A adoção de métricas ágeis neste projeto visa:
 | **Débito Técnico**     | Volume de código com problemas técnicos pendentes | SonarQube, DevLake | Mensal |
 | **Tempo para correção de bugs** | Média de tempo entre a abertura e resolução de defeitos | GitHub Issues, Jira | Por sprint |
 
-### 😊 Métricas de Satisfação
+### Métricas de Satisfação
 
 | Métrica                   | Definição | Coleta | Frequência |
 |--------------------------|-----------|--------|------------|
@@ -44,13 +44,13 @@ A adoção de métricas ágeis neste projeto visa:
 
 Duas opções principais estão sendo consideradas para coleta e visualização automática de métricas:
 
-### ✅ GitHub Projects Graphs *(mais simples)*
+### GitHub Projects Graphs *(mais simples)*
 
 - **Vantagens:** Já integrado ao repositório, fácil de configurar, visualizações automáticas (gráficos de issues, pull requests, etc).
 - **Limitações:** Métricas limitadas, sem dashboards personalizados, pouca profundidade em métricas de qualidade.
 - **Viável para:** Projetos menores, acompanhamento visual rápido, equipes já 100% no GitHub.
 
-### ⚙️ DevLake *(mais completo)*
+### DevLake *(mais completo)*
 
 - **Vantagens:** Consolida dados de múltiplas fontes (GitHub, Jira, Jenkins, SonarQube), permite criação de dashboards personalizados com métricas de entrega, qualidade e produtividade.
 - **Limitações:** Maior esforço de configuração, necessidade de infraestrutura para rodar.

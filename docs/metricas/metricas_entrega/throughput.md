@@ -9,7 +9,7 @@ O **Throughput** é uma métrica quantitativa que indica o **número de unidades
 
 Ela mede a **cadência de entrega do time**, sendo crucial para entender a capacidade real de produção ao longo do tempo. Diferente de Lead Time ou Cycle Time, que focam em *duração*, o Throughput foca em *volume*.
 
-> 📌 Throughput responde à pergunta: **"Quantas tarefas entregamos por semana, sprint ou mês?"**
+> Throughput responde à pergunta: **"Quantas tarefas entregamos por semana, sprint ou mês?"**
 
 ---
 
@@ -36,7 +36,7 @@ A métrica pode ser visualizada com:
 - **Gráficos de linha** (tendência ao longo do tempo)
 - **Gráficos cumulativos** (visão acumulada de entregas)
 
-> 🔍 Flutuações abruptas podem indicar problemas com escopo, bloqueios, mudanças na equipe ou falhas de planejamento.
+> Flutuações abruptas podem indicar problemas com escopo, bloqueios, mudanças na equipe ou falhas de planejamento.
 
 ---
 
@@ -52,9 +52,7 @@ A métrica pode ser visualizada com:
 
 ## Boas práticas
 
-- ✅ Considere somente tarefas realmente concluídas (não em revisão, teste ou bloqueadas).
-- ✅ Use intervalos de tempo consistentes para análise (ex: sempre considerar a sprint fechada).
-- ✅ Combine com outras métricas (Cycle Time, Lead Time, WIP) para formar uma visão mais sistêmica do fluxo.
-- ✅ Monitore a estabilidade do throughput — equipes maduras tendem a ter variações pequenas.
-
----
+- Considere somente tarefas realmente concluídas (não em revisão, teste ou bloqueadas).
+- Use intervalos de tempo consistentes para análise (ex: sempre considerar a sprint fechada).
+- Combine com outras métricas (Cycle Time, Lead Time, WIP) para formar uma visão mais sistêmica do fluxo.
+- Monitore a estabilidade do throughput — equipes maduras tendem a ter variações pequenas.
