@@ -14,7 +14,7 @@ title: Resultados Finais
 
 # SonarQube
 Tentativa de estrutruar o Sonar foi falha.
-![alt text](image.png)
+![alt text](./img/sonar.png)
 
 # Métricas 
 ## Desempenho Individual
