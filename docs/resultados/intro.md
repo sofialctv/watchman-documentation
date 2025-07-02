@@ -12,10 +12,6 @@ title: Resultados Finais
 - Utilizamos o GitHub Projects para controle de tarefas (veja nosso backlog aqui [aqui](https://github.com/users/joaomrpimentel/projects/1/views/1)).
 - Combinamos que o grupo de DOO ficaria responsável por atualizar o status das tarefas.
 
-# SonarQube
-Tentativa de estrutruar o Sonar foi falha.
-![alt text](./img/sonar.png)
-
 # Métricas 
 ## Desempenho Individual
 
